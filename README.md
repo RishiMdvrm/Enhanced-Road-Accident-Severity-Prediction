@@ -99,18 +99,6 @@ This project leverages machine learning techniques to predict the severity of ro
 
 ---
 
-## Contributors
-- **Manan Jain**  
-  Email: mjain35@uic.edu
-- **Hemanth Nagulapalli**  
-  Email: hnagul2@uic.edu
-- **Rishi Madhavaran**  
-  Email: rmadha4@uic.edu
-- **Francis Pagulayan**  
-  Email: ppagu2@uic.edu
-
----
-
 ## References
 1. [US-Accidents Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 2. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
